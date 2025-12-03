@@ -65,13 +65,13 @@ nav a:hover {
     margin-bottom: 20px;
     color: #222;
 }
-
 .grid {
     display: flex;
     justify-content: center;
     gap: 25px;
     flex-wrap: wrap;
 }
+
 .card {
     background: white;
     width: 260px;
@@ -183,5 +183,5 @@ footer {
 }
 
 .mv-box:hover {
-    transform: translateY(-8px); /* animation */
+    transform: translateY(-8px); 
 }
